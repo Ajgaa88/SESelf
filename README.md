@@ -1,2 +1,1 @@
-# SESelf
-AI translation 
+
